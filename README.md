@@ -1,4 +1,4 @@
-![banner (2)](https://user-images.githubusercontent.com/71744361/169245374-779b1ae7-e987-4876-8549-c02e1c39c31a.png)
+![banner (3)](https://user-images.githubusercontent.com/71744361/169247498-ca3155fb-274b-43f9-aa6f-5bf2d53d0163.png)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kylemiller13&layout=compact&theme=tokyonight)](https://github.com/kylemiller13/github-readme-stats)
 
