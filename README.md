@@ -7,7 +7,3 @@
 <h2 align="center">My Github Stats </h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kylemiller13&layout=compact&theme=tokyonight)](https://github.com/kylemiller13/github-readme-stats)
-
-  <img align="right" alt="Coding" width="400" src="add your link 
-  here">
-
