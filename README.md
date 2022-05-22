@@ -1,4 +1,3 @@
-
 [![Linkedin Badge](https://img.shields.io/badge/-KyleMiller-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kyleshigerumiller/)](https://www.linkedin.com/in/kyleshigerumiller/) 
 [![Gmail Badge](https://img.shields.io/badge/-millerkyle85-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:millerkyle85@gmail.com)](mailto:millerkyle85@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/kylemiller13?style=social)](https://www.github.com/kylemiller13) 
@@ -11,6 +10,4 @@
 
 <h2 align="center">Github Stats </h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kylemiller13&layout=compact&theme=tokyonight)](https://github.com/kylemiller13/github-readme-stats)
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kylemiller13&layout=compact)](https://github.com/kylemiller13/github-readme-stats)
