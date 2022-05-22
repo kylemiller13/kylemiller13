@@ -9,4 +9,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kylemiller13&layout=compact&theme=tokyonight)](https://github.com/kylemiller13/github-readme-stats)
 
-<img align="center" src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" />
+
