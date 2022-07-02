@@ -1,5 +1,4 @@
 [![Linkedin Badge](https://img.shields.io/badge/-KyleMiller-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kyleshigerumiller/)](https://www.linkedin.com/in/kyleshigerumiller/) 
-[![Gmail Badge](https://img.shields.io/badge/-millerkyle85-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:millerkyle85@gmail.com)](mailto:millerkyle85@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/kylemiller13?style=social)](https://www.github.com/kylemiller13) 
 <h2 align="center">Technology Stack <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h2> 
 <p align="center"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
